@@ -13,6 +13,9 @@
 <p>I looked up on internet to find where generate password is locating in since it doesn't store admin same as password. I found Log stream on the left of Microsoft Azure portal under BlueStoneFinacial-wb-app in the Log Stream </p>
 
 
+<img width="1063" height="1059" alt="image" src="https://github.com/user-attachments/assets/37d6d1d6-5aa0-489f-98c9-8b581fc0c8e0" />
+
+
 
 # Skills Demonstrated
 
