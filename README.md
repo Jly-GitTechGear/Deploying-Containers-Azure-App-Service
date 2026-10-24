@@ -24,4 +24,4 @@ I remove docker pull and just put filebrowser/filebrowser:latest in the Image an
 
 # Skills Demonstrated
 
-`Microsoft 365 Administration` • `Microsoft Azure`  • `Container` • `Image and Tags` 
+`Microsoft Azure Logs` • `Microsoft Azure`  • `Container` • `Image and Tags` 
