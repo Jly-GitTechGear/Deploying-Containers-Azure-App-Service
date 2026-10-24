@@ -11,4 +11,4 @@
 
 # Skills Demonstrated
 
-`Microsoft 365 Administration` • 'Microsoft Azure'  • 'Container' • 'Image and Tags' 
+`Microsoft 365 Administration` • `Microsoft Azure`  • `Container` • `Image and Tags` 
